@@ -31,6 +31,7 @@ Laravel
 - [60.Events & Listeners.md](03.%20Laravel/60.Events%20%26%20Listeners.md)
 - [70. Seeders.md](03.%20Laravel/70.%20Seeders.md)
 - [75. migrations.md](03.%20Laravel/75.%20migrations.md)
+- [78.Logs.md](03.%20Laravel/78.Logs.md)
 - [80. app() - Dependency Container.md](03.%20Laravel/80.%20app%28%29%20-%20Dependency%20Container.md)
 
 
